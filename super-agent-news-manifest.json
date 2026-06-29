@@ -1,0 +1,58 @@
+{
+  "citations": [
+    {
+      "label": "Gemini introduces built\u2011in computer use in 3.5 Flash",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+    },
+    {
+      "label": "Enterprise context, safety guardrails, and cost posture for Gemini computer use",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool"
+    },
+    {
+      "label": "Independent comparison of computer\u2011use agents (Gemini vs Claude vs OpenAI)",
+      "source": "rohitraj.tech",
+      "url": "https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026"
+    },
+    {
+      "label": "Benchmarks and failure modes for computer\u2011use agents (OSWorld)",
+      "source": "theeditorial.news",
+      "url": "https://theeditorial.news/ai-agents/anthropic-computer-use-vs-openai-operator-vs-google-mariner-72-task-completion-on-osworld-but-on-mqi0zmi8"
+    },
+    {
+      "label": "Security risks as agents operate computers",
+      "source": "searchenginejournal.com",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/552679/"
+    },
+    {
+      "label": "Rising demand for personal AI agents (Asia\u2011Pacific)",
+      "source": "bwmarketingworld.com",
+      "url": "https://www.bwmarketingworld.com/article/60-of-indian-consumers-want-personal-ai-agents-highest-in-asia-pacific-adobe-536020"
+    },
+    {
+      "label": "Consumer adoption signals for personal AI agents",
+      "source": "ndtvprofit.com",
+      "url": "https://www.ndtvprofit.com/business/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds"
+    }
+  ],
+  "design_plan": "rng=42; AIDA pass; hero 2\u20133 lines max\u2011width\u22481120px; bento density uses grid-auto-flow:dense; labels sweep covers Folk, Orchids, Siri, ChatGPT, Gemini, Grok; primary black CTA contrast AA+; cache value framed editorially without pricing.",
+  "generated_at": "2026-06-29T23:06:07.096599+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair comparison for people evaluating Super against Folk. Folk fits niche automation and lightweight workflows. Super is built for durable computer\u2011use agents that actually operate browsers and desktops \u2014 and reuse a computer-use cache so repeated work gets faster and cheaper over time."
+}
